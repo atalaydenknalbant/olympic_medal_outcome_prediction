@@ -2,7 +2,7 @@
 # Olympic Medal Outcome Prediction
 ## Goal
 The goal of this project is to predict if an athlete will win a medal in an Olympic event. This will be done by analyzing historical data from past Olympics, including the athletes' physical characteristics, team, and event details.
-## Summary
+## Dataset Summary
 Historical records of the Olympic Games, including over 271,116 entries covering athlete details, participation, outcomes, events, and years ...etc
 This dataset contains the Olympic results for individual athletes up to 2016.
 ## Results
