@@ -2,6 +2,8 @@
 # Olympic Medal Outcome Prediction
 ## Summary
 This dataset contains the Olympic results for individual athletes up to 2016.
+## Results
+![output (2)](https://github.com/atalaydenknalbant/olympic_medal_outcome_prediction/assets/32653649/d0e281fe-d134-4e56-958c-915aab544128)
 
 ## Source
 https://www.datacamp.com/datalab/w/ebc164b3-e5d9-40af-8875-d50b79935ee3/edit
