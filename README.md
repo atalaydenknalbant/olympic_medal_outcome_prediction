@@ -1,1 +1,1 @@
-# olympic_medal_outcome_prediction
+# Olympic Medal Outcome Prediction
